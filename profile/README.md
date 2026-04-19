@@ -1,7 +1,7 @@
 <img src="komet_512.png" width="100" alt="Komet Logo">
 
 # KometTeam
-Мы создаем крутые инструменты, которые делают Max удобнее!
+Иногда, забавные вещи могут быть наказумы.
 
 ## Ссылки
 [Telegram Канал](https://t.me/TeamKomet)
